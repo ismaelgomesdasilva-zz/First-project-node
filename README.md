@@ -11,19 +11,18 @@
   </sub>
 </div>
 
-20220318_164230.gif
+
 
 # :eyes: Demonstração
- <img src="/demo.gif">
+ <img src="/.vscode/20220314_170356.gif">
 
 # :computer: Tecnologias
 Projeto pessoal feito para fins didáticos. 
 
-* HTML
-* CSS
-* JAVASCRIPT   
+* Node.Js
+* Insominia
      
 
 # :rocket: Funcionalidades
 
-* Pagina demonstrativa do controle PS5
+* Api criada para cadastro de usuarios.
